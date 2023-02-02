@@ -54,4 +54,4 @@
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From Dhananjay Sharma(https://github.com/xenophiliamee)
+⭐️ From [Dhananjay](https://github.com/xenophiliamee)
