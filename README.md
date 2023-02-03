@@ -3,10 +3,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying School of biotecnology at University of Devi Ahilya Vishwavidyalaya, Indore.
+- 🎓 &nbsp; Studying Master in Bioinformatics at University of School of biotecnology, Devi Ahilya Vishwavidyalaya, Indore.
 - 💼 &nbsp; Working as a Trainee,software developer, beta tester as well as Innovator/Communicator at NIPGR, India and Cambridge, U.K.
 - 🌱 &nbsp; Learning more about Web Development, Shell scripting and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Music Composer and video editor as hobbies/side hustles.
+- ✍️ &nbsp; Also Pursuing Music Composer and video editor as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
