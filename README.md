@@ -4,7 +4,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Master in Bioinformatics at University of School of biotecnology, Devi Ahilya Vishwavidyalaya, Indore.
-- 💼 &nbsp; Working as a Trainee,software developer, beta tester as well as Innovator/Communicator at NIPGR, India and Cambridge, U.K.
+- 💼 &nbsp; Previously Working as a Trainee,software developer, beta tester as well as Innovator/Communicator at NIPGR, India and Cambridge, U.K.
+- 💼 &nbsp; Currently Working as Project Associate at NIPGR. 
 - 🌱 &nbsp; Learning more about Web Development, Shell scripting and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
